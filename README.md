@@ -1,5 +1,6 @@
 # noti-py 🛎️
 
+## notify? noti-py!!
 > **noti-py**, a playful take on `notify`, is a **customizable desktop notification assistant** that alerts you at your scheduled time.
 
 ---
